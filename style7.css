@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+
+.backgroundsz 
+{
+
+    background-image: linear-gradient(orange, green);
+}
+
+.sigma1{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sigma2 {
+    font-size:x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 5%;
+}
+
+.listanbror
+{
+    
+    font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.streck
+{width: 100%;
+    height: 20em;
+    background-color: black;}
+
+    .rex a{
+    font-size: x-large;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+

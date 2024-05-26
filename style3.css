@@ -1,0 +1,58 @@
+* {
+    margin: 0%;
+   padding: 0;  
+}
+
+.bakgrund23
+{
+
+background-image: linear-gradient(orange, yellow);
+}
+
+.rub12
+{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+
+.Geo12
+{
+    margin: 5%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+font-size: large;
+}
+
+.wew2
+{
+    margin: 5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Geo13{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: large;
+}
+.wew3{
+    margin: 5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.streck22
+{
+    width: 100%;
+    height: 10em;
+    background-color: black;
+}
+
+.bowser a
+{
+    font-size: x-large;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif    
+}
+
+.mario a
+{
+    font-size: x-large;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}

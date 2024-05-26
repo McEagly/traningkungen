@@ -1,0 +1,53 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+.background12{
+
+background-image: linear-gradient(orange, green);
+}
+.Elias
+{
+border: black;
+border-width: 10px;
+border-style: solid;
+}
+.streck {
+    width: 100%;
+    height: 10em;
+    background-color: black;
+}
+
+.BIGtitle {
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.Introduc {
+font-size: x-large;
+
+
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 0 20%;
+}
+
+.tells2 
+{
+    margin: 5%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+font-size:x-large   
+}
+
+.ovningar a {
+    font-size: x-large;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.mat a {
+    font-size: x-large;
+color :white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.webs1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 2em 25%;
+}
